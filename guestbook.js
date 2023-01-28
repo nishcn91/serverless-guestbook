@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://au-syd.functions.appdomain.cloud/api/v1/web/eded5fbb-3e51-49f3-adf4-b30f1078ba58/guestbook/read-guestbook-entries-sequence';
+const apiUrl = 'https://au-syd.functions.appdomain.cloud/api/v1/web/eded5fbb-3e51-49f3-adf4-b30f1078ba58/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
